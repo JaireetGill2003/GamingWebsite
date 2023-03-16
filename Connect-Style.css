@@ -1,0 +1,217 @@
+html{
+    height: 100%;
+}
+body{
+    background-color:white;
+   background-image:url("https://wallpaperset.com/w/full/8/5/d/380449.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+
+}
+.container1{
+    margin-left: auto;
+    width:1024px;
+}
+
+.container{
+margin-left: auto;
+margin-right: auto;
+width: 1024px;
+}
+
+.container3{
+    width: 1024px;
+    height: 576px;
+    background:#ccc;
+    margin: 120px auto;
+    display: flex;
+    
+
+}
+
+.container4{
+    width: 1040px;
+    height: 585px;
+    background:#ccc;
+    margin: 120px auto;
+    display: flex;
+    
+
+}
+
+nav{
+background-color: rgba(0, 0, 0, 0.338);
+text-align: right;
+padding-top: 14px;
+padding-bottom: 14px;
+
+}
+
+header{
+    height: 10px;
+    text-align: center;
+    padding-bottom: 250px;   
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 20px;
+  
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.800);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 0px;
+    padding-right: 70px; ;
+    color: white;
+
+}
+
+h1{
+    font-size:60px;
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+
+p{
+    font-size: 18px;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+footer p{
+    font-size: 10px;
+    text-align: center;
+    color:white;
+}
+
+.maps{
+    padding-bottom: 100px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.col{
+    height: 100%;
+    flex: 1;
+    color:rgb(0, 0, 0);
+    box-sizing: borderbox;
+    padding: 25px;
+    position: relative;
+
+}
+.col:nth-child(1){     
+background-image: url("https://www.psu.com/wp/wp-content/uploads/2020/09/Grand-Theft-Auto-V-PS4-Wallpapers-01-1024x576.jpg");  
+}
+h3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+}
+.caption{
+    max-width: 230px;
+    font-size: 12px;
+    margin: 28px 0;
+    color: rgb(0, 0, 0);
+
+}
+.caption p{
+    color: rgb(45, 197, 197);
+    font-family: 'Langar', cursive;
+    
+}
+.caption button{
+border: 1px solid rgb(36, 14, 230);
+background: transparent;
+outline: none;
+padding: 8px 18px;
+color: rgb(26, 22, 247);
+border-radius: 30px;
+margin-top: 20px;
+cursor: pointer;
+font-size: 12px;
+}
+.col img{
+    width: 200px;
+    position:absolute;
+    right:0;
+    bottom:0;
+}
+.col:hover{
+    flex-grow: 2.5;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.col1{
+    height: 100%;
+    flex: 1;
+    color:rgb(0, 0, 0);
+    box-sizing: borderbox;
+    padding: 25px;
+    position: relative;
+
+}
+.col1:nth-child(1){     
+background-image: url("https://www.cbc.ca/kids/images/connect4_play.jpg");  
+}
+h4{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+}
+.caption1{
+    max-width: 230px;
+    font-size: 12px;
+    margin: 28px 0;
+    color: blue;
+
+}
+.caption1 p{
+    color: rgb(240, 4, 4);
+    font-family: 'Langar', cursive;
+    
+}
+.caption1 button{
+border: 1px solid rgb(36, 14, 230);
+background: transparent;
+outline: none;
+padding: 8px 18px;
+color: rgb(26, 22, 247);
+border-radius: 30px;
+margin-top: 20px;
+cursor: pointer;
+font-size: 12px;
+}
+
+
+
+
+

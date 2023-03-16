@@ -1,0 +1,61 @@
+html{
+    height: 100%;
+}
+
+body{
+  background-color:white;
+  background-image:url("https://images.hdqwalls.com/download/cyberpunk-city-of-shadow-4k-1m-1920x1080.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+ h3 player-turn{
+     color: white;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.game{
+    position: absolute;
+    top: 4rem;
+    left: 50%;
+    transform: translate(-50%);
+    width: 650px;
+    height: 600px;
+    background-color:rgb(61, 138, 254);
+    border: 1px solid black;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.445);
+    padding:1.5rem;
+
+}
+.slot{
+    width: 90px;
+    height: 90px;
+    background-color:white;
+    border: 2px solid black;
+    border-radius: 50%;
+
+}
+.reset{
+    position: absolute;
+    top: 95vh;
+    left: 50%;
+    transform: translate(-50%);
+    border: 2px solid black;
+    width: 5rem;
+    text-align: center;
+    cursor: pointer;
+}
+
